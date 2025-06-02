@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Candidate at <a href="https://www.mn.uio.no/ifi/" target="_blank">Department of Informatics</a>, <a href="https://www.uio.no/english/" target="_blank">University of Oslo</a> & <a href="https://www.bosch-ai.com/" target="_blank">Bosch Center for AI</a>
 
 profile:
   align: right
